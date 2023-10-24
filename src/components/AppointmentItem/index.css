@@ -1,0 +1,21 @@
+.head-starred-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  border-style: solid;
+  border-color: #b5b7c4;
+  margin: 4px;
+  max-width: 290px;
+  border-radius: 10px;
+}
+
+.button-star {
+  border-style: none;
+  background-color: transparent;
+}
